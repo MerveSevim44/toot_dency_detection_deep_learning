@@ -120,7 +120,7 @@ pip install -r requirements.txt
 </ul>
 <hr data-start="3175" data-end="3178">
 <h2 data-start="3180" data-end="3192">📄 Lisans</h2>
-<p data-start="3194" data-end="3285">Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için <code data-start="3250" data-end="3259">LICENSE</code> dosyasına bakabilirsiniz.</p>
+<p data-start="3194" data-end="3285">Bu proje Creative Commons Zero v1.0 Universal Lisansı ile lisanslanmıştır. Detaylar için <code data-start="3250" data-end="3259">LICENSE</code> dosyasına bakabilirsiniz.</p>
 <hr data-start="3287" data-end="3290">
 <h2 data-start="3292" data-end="3306">📞 İletişim</h2>
 <p data-start="3308" data-end="3340">Her türlü soru ve öneriniz için:</p>
